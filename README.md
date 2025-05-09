@@ -1,4 +1,6 @@
-Config files for my github profile
+Config file for my github profile
+
+
 # 💫 About Me:
 My name is Houcem Zaier I am an engineering student specializing in IT at Esprit High School in Tunisia. Passionate about technology, I am focused on learning new technologies and enhancing my software development skills. In my free time, I enjoy exploring tech trends and experimenting with creative coding projects to bring innovative ideas to life.<br>
 
